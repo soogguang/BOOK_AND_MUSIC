@@ -109,7 +109,7 @@ AI-based Book Mood Playlist Generator
 
 실제 실행 화면 예시는 아래와 같이 구성됩니다  
 
-![UI Screenshot](./music_book화면.png)
+![UI Screenshot](./music_book_window.png)
 
 ## 8. Expected Effects
 책 분위기에 맞는 음악 추천을 통한 독서 몰입도 향상   
